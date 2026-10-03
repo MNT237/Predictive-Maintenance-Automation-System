@@ -956,10 +956,9 @@ Machine-learning predictions should be validated against real machine data and d
 
 If you find this project useful, consider giving the repository a ⭐ on GitHub.
 
-<p align="center">
+
 🚀 Predict Failures. Automate Maintenance. Reduce Downtime.
 
-<strong>AI + Machine Learning + RPA</strong>
 
-</p> ```
+
 

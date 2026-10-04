@@ -1,5 +1,12 @@
 # 🚀 Predictive Maintenance Automation System
 
+## 📦 Complete Project Download
+
+The complete **Predictive Maintenance PEP RPA Project** is available in the
+GitHub Release.
+
+👉 **[📥 Download Complete Project — v1.0.0](../../releases/latest)**
+
 <p align="center">
 
   <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" />

@@ -261,9 +261,9 @@ For critical maintenance cases, the system checks the spare-parts inventory stor
 Example inventory:
 
 Part ID	Part	Quantity	Minimum Stock
-P001	Bearing  	0	            2
-P002	Belt	    0	            2
-P003	Motor	    3            	1
+P001	Bearing  0	           2
+P002	Belt	   0	           2
+P003	Motor	   3            1
 
 UiPath checks whether the required component is available.
 
@@ -735,7 +735,7 @@ Check Spare Parts
 Send Urgent Email
 📧 Automation Decision Matrix
 Machine Status	Database	Ticket	Spare Part	Email
-🟢 NORMAL	      ✅	        ❌	      ❌	       ❌
+🟢 NORMAL	      ✅	      ❌	    ❌	      ❌
 🟡 WARNING	    ✅	        ❌	      ❌	       ✅ Warning
 🔴 CRITICAL	    ✅	        ✅	      ✅	       ✅ Urgent
 
